@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Paul Fixler and I am a fullstack software engineer. 
+
 <!--
 **pfixler/pfixler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
